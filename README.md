@@ -2,6 +2,17 @@
 
 一个**单文件 HTML** 的 3D 太阳系与银河邻居：打开浏览器就能飞，不用安装。
 
+[![version](https://img.shields.io/badge/version-v163.34.1-blue)](https://github.com/myhhhhhhhhhhhhhhhhhhhhhhh/solar-system-3d/releases)
+[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![single file](https://img.shields.io/badge/single--file-4MB-orange)](https://solar-system-3d-cds.pages.dev/)
+[![stars](https://img.shields.io/github/stars/myhhhhhhhhhhhhhhhhhhhhhhh/solar-system-3d?style=social)](https://github.com/myhhhhhhhhhhhhhhhhhhhhhhh/solar-system-3d/stargazers)
+
+### 🌐 [点我立刻体验 →](https://solar-system-3d-cds.pages.dev/)
+
+> 如果这个项目让你觉得「有点意思」，**点个 Star 是最大的鼓励** ⭐ —— 它会让更多人在 GitHub 上刷到这个单文件宇宙。
+
+![总览](screenshot-overview.png)
+
 > 🤖 **AI 生成声明**
 >
 > 本项目的**代码、界面文案、天体介绍文字与数据结构**，由作者使用 AI（DeepSeek）辅助生成与迭代；**天体参数**来自 NASA / ESA / SIMBAD / 维基百科等公开资料，并逐条与公开星表核对。
@@ -9,10 +20,6 @@
 > AI 会出错——如果发现**事实错误、数据偏差或文案问题**，欢迎直接开 [Issue](https://github.com/myhhhhhhhhhhhhhhhhhhhhhhh/solar-system-3d/issues) 指出，我会核实后修正。
 >
 > 作者的角色：定需求、做决策、核对数据、验收效果；AI 的角色：写代码、写文案、查资料、跑测试。
-
-![总览](screenshot-overview.png)
-
-> 在线体验：**https://solar-system-3d-cds.pages.dev**
 
 ## 里面有什么
 
